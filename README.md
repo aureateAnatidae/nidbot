@@ -1,3 +1,3 @@
 # nidbot
-Discord bot for Nidhogg server
+Discord bot for Nidhogg server  
 Rewriting in Python
